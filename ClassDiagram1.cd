@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="AttackWave" Collapsed="true">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Attack\AttackWave.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="InvadeRound" Collapsed="true">
+    <Position X="5.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAAQAAAAAAAAAAAAAgAAQAAAQAA=</HashCode>
+      <FileName>Assets\Scripts\Attack\InvadeRound.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Enemy" Collapsed="true">
+    <Position X="8.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Enemy.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game" Collapsed="true">
+    <Position X="10.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQQACAEAACAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAAg=</HashCode>
+      <FileName>Assets\Scripts\Level\Game.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Level" Collapsed="true">
+    <Position X="7" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AESQEAAAkDAgAAAAAAAAAAAAAAAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Level\Level.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Map" Collapsed="true">
+    <Position X="8.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Level\Map.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Path" Collapsed="true">
+    <Position X="10.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Level\Path.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Place" Collapsed="true">
+    <Position X="5.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Level\Place.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AssetManager" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQQAAAAACAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Managers\AssetManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Resource" Collapsed="true">
+    <Position X="7" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAEAAAACABAABAAAAAQAAAAAAAACAAAAAgAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Resource\Resource.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="AreaBullet" Collapsed="true">
+    <Position X="0.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAgAAAAAAAAEAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Tower\AreaBullet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Bullet" Collapsed="true">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAARAQQAAQAABAAABAABkEQACQAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Tower\Bullet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SingleBullet" Collapsed="true">
+    <Position X="2.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAgEAAAIBAAEAAAEBAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Tower\SingleBullet.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Tower" Collapsed="true">
+    <Position X="8.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAQBAAgBAGIggAACAAAqCAIAAAoMABAABAAgACAAACA=</HashCode>
+      <FileName>Assets\Scripts\Tower\Tower.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TowerScope" Collapsed="true">
+    <Position X="10.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAQAAAAAAAAAAIAAQAAAAAAAAAA=</HashCode>
+      <FileName>Assets\TowerScope.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Attribute" Collapsed="true">
+    <Position X="5.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAEACIAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Tower\Attribute.cs</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Enum Name="ResourceType" Collapsed="true">
+    <Position X="5.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAABAAAAABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\Resource\Resource.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
